@@ -1,0 +1,12 @@
+This repository contains my public Haiku HOME directory configuration files
+(i.e. files in config/settings).
+
+The main purpose of this repository is so I can easily share my current
+configuration files with multiple systems I run Haiku on, but I've made it
+public in case it is of interest to anyone else.
+
+For any code found here that is not written by someone else and/or does not
+have a specific license, you can assume it is licensed under the MIT License.
+See [[file:LICENSE][LICENSE]].
+
+-- Kyle Sherman
